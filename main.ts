@@ -1,4 +1,5 @@
 // u-boothlord-unsent-the-micro-confession-sprint-8c6596ba entry.
+// Reviser write (comment only): second write message for thinking_revised; no logic or data change.
 // Node 22, standard library only: writes one fixed two-part micro-confession
 // to /output/entry.txt (or $MAKEFUN_OUTPUT_DIR/entry.txt).
 // Gate: UTF-8, 1 to 260 characters, not only white space; the program runs
